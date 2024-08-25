@@ -13,3 +13,5 @@ In this analysis, the processing of the dataset can be summarized as follows:
 - The analysis ends with next steps recommended for the SaaS Company.
 
 This project also has a video presentation (link: https://drive.google.com/file/d/1YC9l-leI7YIhTd3WEEPwYbRxonYE-KVI/view?usp=sharing) and a dashboard in Tableau Public (link: https://public.tableau.com/views/CapstoneProject_17245261337290/EffectofDiscountsonProfitsNumberofTransactionsandQuantitiesPurchased?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) that can be freely accessed.
+
+This file is also available in this Google Drive: https://drive.google.com/drive/folders/1me686buqQ051UtqjxfgkVuyEoYEQJt_9?usp=sharing
