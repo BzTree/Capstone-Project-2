@@ -11,3 +11,5 @@ In this analysis, the processing of the dataset can be summarized as follows:
 - The analysis focuses on finding the link between discounts and profits, sales, number of transactions and quantities purchased.
 - Data points are seen from the prespective of both the list of the companies and countries present in the dataset.
 - The analysis ends with next steps recommended for the SaaS Company.
+
+This project also has a video presentation (link: ) and a dashboard in Tableau Public (link: https://public.tableau.com/views/CapstoneProject_17245261337290/EffectofDiscountsonProfitsNumberofTransactionsandQuantitiesPurchased?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) that can be freely accessed.
