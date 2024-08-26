@@ -14,7 +14,7 @@ Copy-pasted original notes from 2nd_Capstone_Project.ipynb and the notes added f
 - We will assume that ‘Sales’ refers to gross income, before discount is applied.
 - We only group the data by country and companies, as there are enough unique values in those categories to ensure the correlations aren’t affected badly by outliers.
 - The Profit/Loss and Sales Columns have no Currency sign. To avoid misrepresenting this dataset, I have not added any myself.
-- In order to simplify the calculations and allow for more informative kinds of analyses, such as the point at which discounts stop being profitable and where exactly discounts mostly congregate, all transactions in this dataframe will be counted as its separate transaction, ignoring Order ID (which will be dropped).
+- In order to simplify the calculations and allow for more informative kinds of analyses, such as the point at which discounts stop being profitable and where exactly discounts mostly congregate, all entries in this dataframe will be counted as a separate transaction, ignoring Order ID (which will be dropped).
 
 The video presentation (via the link) and the presentation file in this Github are not updated.
 
