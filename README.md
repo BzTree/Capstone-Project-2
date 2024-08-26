@@ -1,6 +1,25 @@
 # Capstone-Project-2
 
-This repository is built for the purpose of containing the files needed for Capstone Project 2 of JCDSOL15.
+## EDIT 26/8/2024:
+
+Added 2nd_Capstone_Project_Ver2, which:
+- Adds a note explaining why Order ID was dropped.
+- Adds explanations directly below the scatterplots analyzing the effect of discounts on transaction count, profits, sales and quantities bought.
+- Adds extra suggestions at the end of the document, which gets it up to speed with the video presentation.
+
+Copy-pasted notes from the 2nd_Capstone_Project_Ver2 to the README, which are:
+- The dataframe analyzed goes from 4 Jan 2020 to 31 Dec 2023.
+- We focus only on the effect of discounts on profits and transaction count here.
+- We will assume that ‘Sales’ refers to gross income, before discount is applied.
+- We only group the data by country and companies, as there are enough unique values in those categories to ensure the correlations aren’t affected badly by outliers.
+- The Profit/Loss and Sales Columns have no Currency sign. To avoid misrepresenting this dataset, I have not added any myself.
+- In order to simplify the calculations and allow for more informative kinds of analyses, such as the point at which discounts stop being profitable and where exactly discounts mostly congregate, all transactions in this dataframe will be counted as its separate transaction, ignoring Order ID (which will be dropped).
+
+The video presentation and the presentation file in this Github are not updated.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## This repository is built for the purpose of containing the files needed for Capstone Project 2 of JCDSOL15.
 The following files are available in this repository:
 - .ipynb notebook containing the whole process of processing and analyzing the data, from understanding to cleaning to analysis and visualization.
 - The presentation to better visually assess the analysis.
