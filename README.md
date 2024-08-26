@@ -7,7 +7,7 @@ Added 2nd_Capstone_Project_Ver2, which:
 - Adds explanations directly below the scatterplots analyzing the effect of discounts on transaction count, profits, sales and quantities bought.
 - Adds extra suggestions at the end of the document, which gets it up to speed with the video presentation.
 
-Copy-pasted notes from the 2nd_Capstone_Project_Ver2 to the README, which are:
+Copy-pasted original notes from 2nd_Capstone_Project.ipynb and the notes added from 2nd_Capstone_Project_Ver2.ipynb to the README, which are:
 - The dataframe analyzed goes from 4 Jan 2020 to 31 Dec 2023.
 - We focus only on the effect of discounts on profits and transaction count here.
 - We will assume that ‘Sales’ refers to gross income, before discount is applied.
