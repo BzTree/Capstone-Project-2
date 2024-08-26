@@ -15,7 +15,7 @@ Copy-pasted notes from the 2nd_Capstone_Project_Ver2 to the README, which are:
 - The Profit/Loss and Sales Columns have no Currency sign. To avoid misrepresenting this dataset, I have not added any myself.
 - In order to simplify the calculations and allow for more informative kinds of analyses, such as the point at which discounts stop being profitable and where exactly discounts mostly congregate, all transactions in this dataframe will be counted as its separate transaction, ignoring Order ID (which will be dropped).
 
-The video presentation and the presentation file in this Github are not updated.
+The video presentation (via the link) and the presentation file in this Github are not updated.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
