@@ -6,6 +6,7 @@ Added 2nd_Capstone_Project_Ver2, which:
 - Adds a note explaining why Order ID was dropped.
 - Adds explanations directly below the scatterplots analyzing the effect of discounts on transaction count, profits, sales and quantities bought.
 - Adds extra suggestions at the end of the document, which gets it up to speed with the video presentation.
+- Adds one line of coding only at the very end of the document where it discusses next steps the company could take after the analysis, intended only to show a table to show examples of companies with very high transaction count to analyze and approach for when specifically trying to get more profits from them.
 
 Copy-pasted original notes from 2nd_Capstone_Project.ipynb and the notes added from 2nd_Capstone_Project_Ver2.ipynb to the README, which are:
 - The dataframe analyzed goes from 4 Jan 2020 to 31 Dec 2023.
